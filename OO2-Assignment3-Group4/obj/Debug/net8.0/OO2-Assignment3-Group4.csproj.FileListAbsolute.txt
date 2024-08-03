@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\bin\Debug\net8.0\OO2-Assignment3-Group4.exe
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\bin\Debug\net8.0\OO2-Assignment3-Group4.deps.json
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\bin\Debug\net8.0\OO2-Assignment3-Group4.runtimeconfig.json
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\bin\Debug\net8.0\OO2-Assignment3-Group4.dll
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\bin\Debug\net8.0\OO2-Assignment3-Group4.pdb
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.AssemblyInfo.cs
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.sourcelink.json
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.dll
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\refint\OO2-Assignment3-Group4.dll
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.pdb
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\OO2-Assignment3-Group4.genruntimeconfig.cache
+C:\Users\danie\Desktop\OOP2-Assignment3\Submission\OO2-Assignment3-Group4\obj\Debug\net8.0\ref\OO2-Assignment3-Group4.dll

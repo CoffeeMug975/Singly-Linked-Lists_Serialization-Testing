@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24FA8B6-CF14-437E-AF9E-B600AE8F2F6B}|..\\SerializationTests\\SerializationTests.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\serializationtests\\serializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24FA8B6-CF14-437E-AF9E-B600AE8F2F6B}|..\\SerializationTests\\SerializationTests.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\serializationtests\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\oo2-assignment3-group4\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|solutionrelative:sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311BFB4A-BBA5-4083-90B2-7FDD8DD11EC2}|..\\LinkedListTest\\LinkedListTest.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\linkedlisttest\\sll-tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\oo2-assignment3-group4\\ilinkedlistadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|solutionrelative:ilinkedlistadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\oo2-assignment3-group4\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\oo2-assignment3-group4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|c:\\users\\danie\\desktop\\oop2-assignment3\\submission\\oo2-assignment3-group4\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3385D5-5956-4FCD-8A15-4BF1754CBAA5}|OO2-Assignment3-Group4.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:58:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerializationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\SerializationTests\\SerializationHelper.cs",
+              "RelativeDocumentMoniker": "..\\SerializationTests\\SerializationHelper.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\SerializationTests\\SerializationHelper.cs",
+              "RelativeToolTip": "..\\SerializationTests\\SerializationHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:51:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializationTests.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\SerializationTests\\SerializationTests.cs",
+              "RelativeDocumentMoniker": "..\\SerializationTests\\SerializationTests.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\SerializationTests\\SerializationTests.cs",
+              "RelativeToolTip": "..\\SerializationTests\\SerializationTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:38:16.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SLL-Tests.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\LinkedListTest\\SLL-Tests.cs",
+              "RelativeDocumentMoniker": "..\\LinkedListTest\\SLL-Tests.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\LinkedListTest\\SLL-Tests.cs",
+              "RelativeToolTip": "..\\LinkedListTest\\SLL-Tests.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAYwFIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:25:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SLL.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\SLL.cs",
+              "RelativeDocumentMoniker": "SLL.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\SLL.cs",
+              "RelativeToolTip": "SLL.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAiwOUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:54:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILinkedListADT.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\ILinkedListADT.cs",
+              "RelativeDocumentMoniker": "ILinkedListADT.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\ILinkedListADT.cs",
+              "RelativeToolTip": "ILinkedListADT.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:33:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:30:10.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\OOP2-Assignment3\\Submission\\OO2-Assignment3-Group4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:26:19.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
